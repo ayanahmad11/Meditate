@@ -1,20 +1,4 @@
-<div align="center">
-  <br />
-    <a href="https://www.youtube.com/channel/UCzrpTaJWhZZNLLE_3obvE2Q" target="_blank">
-      <img src="https://i.postimg.cc/rygDVH1m/React-Native-Git-Hub-Cover.png" alt="Project Banner">
-    </a>
-  <br />
 
-  <div>
-   
-  </div>
-
-  <h3 align="center">Meditation and Affirmations App</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on the <a href="https://www.youtube.com/channel/UCzrpTaJWhZZNLLE_3obvE2Q/videos" target="_blank"><b>StevenCodeCraft</b></a> YouTube channel.
-    </div>
-</div>
 
 ## 📋 <a name="table">Table of Contents</a>
 
