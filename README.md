@@ -494,12 +494,3 @@ export default AFFIRMATION_GALLERY;
 
 Assets and constants used in the project can be found [here](https://drive.google.com/drive/folders/1ZNn-26vUkscU4Bx08BQsyY_i0HkbuzH5?usp=sharing)
 
-## <a name="more">🚀 More</a>
-
-**Advance your skills with StevenCodeCraft Courses**
-
-Enjoyed creating this project? Dive deeper into web development fundamentals with our PRO courses, offering beginner-friendly learning material. Give it a go!"
-
-<a href="https://stevencodecraft.com" target="_blank">
-    StevenCodeCraft.com
-</a>
